@@ -27,3 +27,8 @@ nick-architecture-portfolio/
 └── artifact-5-risk-mitigation-plan/
     ├── risk-mitigation-plan.md
     └── caption.txt
+
+
+    A collection of multi‑region cloud architecture artifacts demonstrating system design, workflow modeling, automation engineering, technical documentation, and risk analysis.
+
+This portfolio showcases a complete architectural narrative built across five core artifacts. Each artifact includes diagrams, documentation, and captions designed to communicate system structure, behavior, and operational considerations.
